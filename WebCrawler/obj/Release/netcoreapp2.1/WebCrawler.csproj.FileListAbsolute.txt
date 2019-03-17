@@ -1,0 +1,13 @@
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.dll.config
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.deps.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.runtimeconfig.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.runtimeconfig.dev.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.dll
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\WebCrawler.pdb
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.dll.config
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.AssemblyInfo.cs
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.dll
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\WebCrawler.pdb

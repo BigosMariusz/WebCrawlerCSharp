@@ -1,0 +1,16 @@
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\libhostpolicy.so
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\libhostfxr.so
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.dll.config
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.deps.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.runtimeconfig.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.runtimeconfig.dev.json
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.dll
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\bin\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.pdb
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.dll.config
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.AssemblyInfo.cs
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.dll
+C:\Users\Mariusz\source\repos\WebCrawlerAsyncTestDwa\WebCrawler\obj\Release\netcoreapp2.1\ubuntu.18.04-x64\WebCrawler.pdb

@@ -1,0 +1,7 @@
+{
+  "ServerAddress": "localhost",
+  "DbName": "elo",
+  "DbUser": "root",
+  "DbPassword": "pass",
+  "MysqlVersion": "8.0.13"
+}
