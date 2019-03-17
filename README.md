@@ -38,8 +38,13 @@ To run this program you need MySQL server on your computer.
 
 ### DB schema
 Id - Link id
+
 Url - Link url
+
 ParentId - Id of the link from which I came to this page
+
 Domain - Domain of link
+
 IsInternal - Is the link within 1 domain with the parent
+
 Tier - Level of link, start level is 0
