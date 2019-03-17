@@ -3,7 +3,7 @@
 Asynchronous web crawler with parallel elements written in C#. Crawler goes online and collects all internal and external links from websites. Links are saved in the MySQL DB. 
 
 ### Key problem
-The key problem was how to optimize time which crawler spend on walking on websites.  First thing may be to use an async method and than waiting for all the tasks to be done but if in tier i have 1 million sites it is not the best for our RAM. So my solution was to divide list of links which i need visit into packs of 100 links. It help not overload my RAM but performance is still  2 times better compared with synchronous working. 
+The key problem was how to optimize time which crawler spend on walking on websites.  First thing may be to use an async method and than waiting for all the tasks to be done but if in tier i have 1 million sites it is not the best for my RAM. So my solution was to divide list of links which i need visit into packs of 100 links. It help not overload my RAM but performance is still  2 times better compared with synchronous working. 
 
 ### First startup
 Chose 2 option:
